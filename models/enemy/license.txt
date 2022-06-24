@@ -1,0 +1,11 @@
+Model Information:
+* title:	fat flame
+* source:	https://sketchfab.com/3d-models/fat-flame-e4b51e607d0d483a83c5a72581c5cfa2
+* author:	Frybrix (https://sketchfab.com/Frybrix)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "fat flame" (https://sketchfab.com/3d-models/fat-flame-e4b51e607d0d483a83c5a72581c5cfa2) by Frybrix (https://sketchfab.com/Frybrix) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
